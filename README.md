@@ -1,6 +1,6 @@
 <div align="center"><h1>Text Animated :alien:</h1></div>
 <div class="row" align="center">
-  <img src="./assets/video.gif" width="400" height="200" />
+  <img src="./assets/video.gif" width="200" height="400" />
 </div>
 
 
