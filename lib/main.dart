@@ -12,15 +12,13 @@ class MyApp extends StatefulWidget {
 
 class _MyAppState extends State<MyApp> {
   @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
+  Widget build(BuildContext context) =>  MaterialApp(
       title: 'Animated Text',
       debugShowCheckedModeBanner: false,
       theme: ThemeData.dark(),
       home: MyHomePage(),
     );
   }
-}
 
 class MyHomePage extends StatefulWidget {
   @override
